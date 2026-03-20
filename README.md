@@ -57,7 +57,7 @@ This repository contains a complete Flutter learning curriculum structured into 
 **Beginner (New to Flutter)**
 ```bash
 # Start with Dart fundamentals
-📖 Read: DART_FOUNDATION_GUIDE.md
+📖 Read: DART_GUIDE.md
 ⏱️  Duration: 2-4 weeks
 🎯 Goal: Build CLI apps with async operations
 ```
@@ -65,7 +65,7 @@ This repository contains a complete Flutter learning curriculum structured into 
 **Intermediate (Know Flutter basics)**
 ```bash
 # Skip to advanced concepts
-📖 Read: FLUTTER_MASTERY_ROADMAP.md
+📖 Read: FLUTTER_ROADMAP.md
 ⏱️  Duration: 3-6 months
 🎯 Goal: Build production-grade apps
 ```
@@ -240,62 +240,7 @@ Build a production-ready application that demonstrates:
 
 ---
 
-### 📜 Portfolio Development
 
-**GitHub Portfolio Setup:**
-```bash
-# Organize your learning
-mkdir flutter-portfolio
-cd flutter-portfolio
-
-# Create project repositories
-git clone [dart-projects]
-git clone [flutter-projects]
-git clone [capstone-project]
-```
-
-**Portfolio Highlights:**
-- Well-documented projects
-- Clean, readable code
-- Comprehensive tests
-- Performance benchmarks
-- Deployment examples
-
----
-
-## 🤝 Community & Support
-
-### 🌐 Learning Community
-
-**Join the Discussion:**
-- [Flutter Discord](https://discord.gg/flutter)
-- [Reddit r/FlutterDev](https://www.reddit.com/r/FlutterDev/)
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/flutter)
-
-**Study Groups:**
-- Find study partners
-- Code review sessions
-- Project collaboration
-- Knowledge sharing
-
-### 📚 Additional Resources
-
-**Official Documentation:**
-- [Flutter Documentation](https://flutter.dev/docs)
-- [Dart Language Guide](https://dart.dev/guides)
-- [Flutter YouTube Channel](https://youtube.com/flutter)
-
-**Recommended Channels:**
-- [Flutter's YouTube](https://youtube.com/flutter)
-- [The Net Ninja](https://youtube.com/thenetninja)
-- [Code with Andrea](https://youtube.com/codewithandrea)
-
-**Books & Courses:**
-- "Flutter in Action" by Eric Windmill
-- "Beginning Flutter" by Marco L. Napoli
-- [Flutter Bootcamp](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
-
----
 
 ## 🚀 Getting Started Right Now
 
@@ -344,15 +289,6 @@ cd flutter-mastery
 - Ask questions early
 - Help others when you can
 - Share your progress and projects
-
-## 📄 License
-
-This curriculum is provided under the MIT License. You're free to:
-- ✅ Use for personal learning
-- ✅ Share with others
-- ✅ Modify for your needs
-- ✅ Use in educational settings
-
 ---
 
 ## 🎉 Your Journey Starts Now
