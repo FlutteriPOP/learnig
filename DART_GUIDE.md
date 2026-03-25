@@ -7,12 +7,12 @@ Master these core pillars before moving to Flutter. This guide takes you from ba
 ## 🚦 Phase 1: The Basics (Week 1)
 *Focus: Understanding the syntax and the type system.*
 
-- [ ] **Variables & Types:** `var`, `final`, `const`, and the difference between compile-time and runtime constants.
-- [ ] **Sound Null Safety:** Master `?`, `!`, `late`, and the null-aware operators (`??`, `?.`, `??=`).
-- [ ] **Collections:** 
+- [X] **Variables & Types:** `var`, `final`, `const`, and the difference between compile-time and runtime constants.
+- [X] **Sound Null Safety:** Master `?`, `!`, `late`, and the null-aware operators (`??`, `?.`, `??=`).
+- [X] **Collections:**
     - Lists, Sets, and Maps.
     - Advanced collection features: `spread operator (...)`, `collection-if`, and `collection-for`.
-- [ ] **Functions:** Named vs. positional parameters, required parameters, and arrow syntax (`=>`).
+- [X] **Functions:** Named vs. positional parameters, required parameters, and arrow syntax (`=>`).
 
 ## 🏛️ Phase 2: Object-Oriented Excellence (Week 2)
 *Focus: Structuring code for scale.*
