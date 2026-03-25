@@ -26,26 +26,6 @@ A structured path from Dart fundamentals to expert-level Flutter engineering.
 
 ---
 
-## 📂 Suggested Structure
-Keep your practice organized by following this hierarchy:
-
-```text
-learnig/
-├── 🎯 dart_practice/
-│   ├── 01_basics/        # Types, Collections, Null Safety
-│   ├── 02_oop/           # Mixins, Patterns, Sealed Classes
-│   ├── 03_async/         # Futures, Streams, Isolate
-│   └── 04_todo_cli/      # Practice Project
-│
-├── 💙 flutter_practice/
-│   ├── 01_internals/     # CustomPainter, Slivers, Performance
-│   ├── 02_architecture/  # Riverpod, Clean Arch, Hive
-│   ├── 03_expert/        # Testing, Native, CI/CD
-│   └── 04_ecommerce_app/ # Capstone Project
-```
-
----
-
 ## 🚀 Quick Start
 1.  **Environment:** [Install Flutter SDK](https://flutter.dev/docs/get-started/install).
 2.  **Verify:** Run `flutter doctor`.
